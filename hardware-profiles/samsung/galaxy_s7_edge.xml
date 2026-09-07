@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<d:devices xmlns:d="http://schemas.android.com/sdk/devices/5"><d:device><d:name>Galaxy S7 Edge</d:name><d:id>galaxy_s7_edge</d:id><d:manufacturer>Samsung</d:manufacturer><d:hardware><d:screen><d:screen-size>normal</d:screen-size><d:diagonal-length>5.50</d:diagonal-length><d:pixel-density>534dpi</d:pixel-density><d:screen-ratio>long</d:screen-ratio><d:dimensions><d:x-dimension>1440</d:x-dimension><d:y-dimension>2560</d:y-dimension></d:dimensions><d:xdpi>534</d:xdpi><d:ydpi>534</d:ydpi><d:touch><d:multitouch>jazz-hands</d:multitouch><d:mechanism>finger</d:mechanism><d:screen-type>capacitive</d:screen-type></d:touch></d:screen><d:networking>Bluetooth
+Wifi
+NFC</d:networking><d:sensors>Accelerometer
+Barometer
+Compass
+GPS
+Gyroscope
+LightSensor
+ProximitySensor</d:sensors><d:mic>true</d:mic><d:keyboard>nokeys</d:keyboard><d:nav>nonav</d:nav><d:ram unit="GiB">4</d:ram><d:buttons>soft</d:buttons><d:internal-storage unit="GiB">32</d:internal-storage><d:abi>arm64-v8a</d:abi><d:power-type>battery</d:power-type><d:skin>Galaxy_S7_Edge</d:skin></d:hardware><d:software><d:api-level>23</d:api-level><d:live-wallpaper-support>true</d:live-wallpaper-support><d:gl-version>3.0</d:gl-version></d:software><d:state default="true" name="Portrait"><d:description>Portrait</d:description><d:screen-orientation>port</d:screen-orientation><d:keyboard-state>keyssoft</d:keyboard-state><d:nav-state>navhidden</d:nav-state></d:state><d:state name="Landscape"><d:description>Landscape</d:description><d:screen-orientation>land</d:screen-orientation><d:keyboard-state>keyssoft</d:keyboard-state><d:nav-state>navhidden</d:nav-state></d:state></d:device></d:devices>
